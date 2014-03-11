@@ -1,0 +1,7 @@
+Datum
+Sat
+Minuta (Interval 15 min)
+Broj auta u prethodnom intervalu
+Prosjecna brzina u prethodnom intervalu
+Broj auta u tom intervalu
+Prosjecna brzina u tom intervalu

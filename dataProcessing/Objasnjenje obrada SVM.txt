@@ -1,0 +1,5 @@
+Mjesec
+Dan u tjednu
+Minuta u danu
+Prethodna frekvencija
+Prethodna prosjecna brzina

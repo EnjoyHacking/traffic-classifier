@@ -1,0 +1,5 @@
+Datum
+Sat
+Minuta (Interval 15 min)
+Broj auta u prethodnom intervalu
+Broj auta u tom intervalu
